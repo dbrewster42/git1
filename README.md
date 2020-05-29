@@ -33,7 +33,6 @@ Exercise Steps/Instructions:
 Submit a pull request for both the html-branch and the text-branch to be merged into master.  Add your TA as a collaborator for both Pull Requests (PR).  
 
 **Bonus Goals:
-* The instructions for the bonus functionality are another branch of this repo.  Find those instructions
 
 3. Submit the exercise in <a href="https://bit.ly/3aKtYAC" target="_blank">TEKsystems Academy</a>
 
